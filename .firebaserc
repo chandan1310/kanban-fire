@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "kanban-fire-5ff83"
+  },
+  "targets": {
+    "kanban-fire-5ff83": {
+      "hosting": {
+        "kanban-fire": [
+          "kanban-fire-5ff83"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
